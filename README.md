@@ -51,25 +51,3 @@ Open Command Prompt or PowerShell:
 ```bash
 pip install pygame
 
-## 🚀 Future Improvements
-
-- 🚗 Realistic car images
-- 🔊 Engine and collision sound effects
-- 🎵 Background music
-- 🏪 Car garage and shop
-- ⚙️ Car upgrades
-- 🛣️ Multiple racing tracks
-- 🌦️ Weather effects
-- 🏆 Leaderboard
-- 👥 Multiplayer mode
-- 🎨 Improved graphics and animations
-
-## 👩‍💻 Developer
-
-**Pooja**
-
-Computer Science & Engineering Student
-
-## 📄 License
-
-This project is created for educational and portfolio purposes.
